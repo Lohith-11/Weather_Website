@@ -103,8 +103,8 @@ Here are the key dependencies used in this project:
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [lohithr011@example.com](mailto:lohithr011@example.com)
+- **GitHub**: [Lohith-11](https://github.com/Lohith-11)
 
 ---
 
